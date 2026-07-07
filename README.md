@@ -2,6 +2,8 @@
 
 Forward-deployed AI engineer building LLM agents, RAG systems, and full-stack products from workflow discovery to production deployment.
 
+I also love teaching computer science and developing apps that make real workflows simpler.
+
 Currently focused on:
 
 - LangGraph / LangChain agent systems

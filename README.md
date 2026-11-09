@@ -2,7 +2,7 @@
 
 Forward-deployed AI engineer building LLM agents, RAG systems, and full-stack products from workflow discovery to production deployment.
 
-I also love teaching computer science and developing apps that make real workflows simpler.
+I also love teaching computer science and developing apps that make real workflows simpler. 
 
 Currently focused on:
 
@@ -20,4 +20,4 @@ Selected work:
 
 Tech I use: Python, TypeScript, FastAPI, Django, React, LangGraph, LangChain, PostgreSQL, Neo4j, Docker, Azure.
 
-[LinkedIn](https://linkedin.com/in/khajiev13) | [Email](mailto:raxmon1710@gmail.com)
+[LinkedIn](https://linkedin.com/in/khajiev13) | [Email](mailto:raxmon1710@gmail.com) | [Website](https://khajiev13.uz)
